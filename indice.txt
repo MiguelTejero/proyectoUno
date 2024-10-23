@@ -1,4 +1,4 @@
 Capitulo 1: Introduccion a Git
 Capitulo 2: Flujo de trabajo
-Capitulo 3: 
-Capitulo 4: 
+Capitulo 3: Gestion de tasas
+Capitulo 4: Repositorios Remotos
